@@ -1,2 +1,3 @@
 # vimrc
-VIM設定黨
+VIM設定檔
+
