@@ -97,7 +97,7 @@ filetype plugin indent on     " required
 "rkulla/pydiction   套件使用
 filetype plugin on
 let g:pydiction_location = '/path/to/complete-dict' 
-let g:pydiction_location = '/home/user/.vim/bundle/pydiction/complete-dict' 
+let g:pydiction_location = '/home/您的使用者名稱/.vim/bundle/pydiction/complete-dict' 
 let g:pydiction_menu_height = 3 
   if has("autocmd") 
     "autocmd FileType python set complete+=k/path/to/pydiction iskeyword+=.,( 
